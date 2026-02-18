@@ -20,4 +20,4 @@ Bu layihə müasir və responsiv bir NFT bazar platformasının ön tərəf (fro
 </p>
 
 ---
-🎓 *Bu layihə mənim BDU-da öyrəndiyim proqramlaşdırma biliklərini estetik və funksional veb həllərə çevirmək bacarığımı nümayiş etdirir.*
+
