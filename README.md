@@ -14,8 +14,9 @@ Bu layihə müasir və responsiv bir NFT bazar platformasının ön tərəf (fro
 
 ## 📸 Layihədən Görüntülər
 <p align="center">
-  <img src="homepage_screenshot.png" width="45%" />
-  <img src="creators_screenshot.png" width="45%" />
+  <img src="Screenshot 2026-02-18 171924.png" width="45%" />
+  <img src="Screenshot 2026-02-18 171942.png" width="45%" />
+  <img src="Screenshot 2026-02-18 172004.png" width="45%" />
 </p>
 
 ---
